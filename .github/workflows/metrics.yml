@@ -19,10 +19,10 @@ jobs:
           user: domdepasquale
           template: classic
           filename: metrics.svg
-          config_order: github.reactions, github.achievements
-          plugin_reactions: yes
-          plugin_reactions_limit: 100
-          plugin_reactions_details: absolute
+          base: header, community, repositories, metadata
+          config_order: github.followup, github.achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
