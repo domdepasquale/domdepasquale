@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub stats](./metrics.svg)
+
 <!--
 **domdepasquale/domdepasquale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
